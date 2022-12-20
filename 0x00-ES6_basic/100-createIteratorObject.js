@@ -1,3 +1,4 @@
 export default function createIteratorObject(report) {
-  return
+  while (report) {
+    console.log('Item')
 }
