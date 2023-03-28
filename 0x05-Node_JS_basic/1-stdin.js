@@ -1,4 +1,4 @@
-console.log('Welcome to Holberton School, what is your name?');
+process.stdout.write('Welcome to Holberton School, what is your name?');
 // wait for input
 process.stdin.resume();
 // once input is entered
